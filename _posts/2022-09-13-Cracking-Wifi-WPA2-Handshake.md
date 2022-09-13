@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In this lab we will capture the 4-way handshake and crack the password using hashcat
 
