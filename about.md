@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am currently transitioning into a career in cybersecurity, this blog will detail some of the projects I am working on to further develop my skills.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently looking for roles in cybersecurity, please contact me if you have any feedback!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Zainal.Salman.Ali@gmail.com](mailto:Zainal.Salman.Ali@gmail.com)
