@@ -9,6 +9,6 @@ In this lab we will set up a virtual home lab consisting of a domain controller,
 
 ### Create Virtual Machines(VM)
 Here I created the domain controller, DHCP server, File Server, and the two clients. The clients are running Windows 10 
-![Screenshot 2022-09-13 201527.png]({{site.baseurl}}/_posts/Screenshot 2022-09-13 201527.png)
+![Screenshot 2022-09-13 201527.png]({{site.baseurl}}/images/Screenshot 2022-09-13 201527.png)
 
 
