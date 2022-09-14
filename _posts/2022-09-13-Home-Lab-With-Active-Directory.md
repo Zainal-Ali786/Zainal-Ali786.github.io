@@ -16,7 +16,7 @@ Here I created the domain controller, DHCP server, File Server, and the two clie
 
 
 
-### **I realized that I was overly ambitious on my PC's capabilities and decided on running just the Domain Controller, DHCP Server and one client PC.**
+### **I realized that I was overly ambitious on my PC's capabilities and decided on running just the Domain Controller, DHCP Server and one client.**
 
 
 ### Configured Domain Controller with Active Directory and made it the DC
