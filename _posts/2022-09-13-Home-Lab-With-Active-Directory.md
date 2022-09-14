@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Setting Up a Virtual Home Lab running Active Directory (using Oracle VirtualBox)
 
