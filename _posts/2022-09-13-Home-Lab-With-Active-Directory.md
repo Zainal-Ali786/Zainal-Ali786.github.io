@@ -6,3 +6,9 @@ In this lab we will set up a virtual home lab consisting of a domain controller,
 
 ### Download and Install Oracle VirtualBox
 ![VMware.png]({{site.baseurl}}/images/VMware.png)
+
+### Create Virtual Machines(VM)
+Here I created the domain controller, DHCP server, File Server, and the two clients. The clients are running Windows 10 
+![Screenshot 2022-09-13 201527.png]({{site.baseurl}}/_posts/Screenshot 2022-09-13 201527.png)
+
+
