@@ -22,3 +22,6 @@ Here I created the domain controller, DHCP server, File Server, and the two clie
 ### Configured Domain Controller with Active Directory and made it the DC
 
 ![DC with AD and DNS]({{site.baseurl}}/images/DC%20with%20AD%20DS%20and%20DNS%20installed.png)
+
+
+I also created a new user and added it to high level groups so I dont have to add it to other groups later.
