@@ -14,6 +14,6 @@ Here I created the domain controller, DHCP server, File Server, and the two clie
 
 
 
-### I realized that I was overly ambitious on my PC's capabilities and decided on running just the Domain Controller, DHCP Server and one client PC.
+### **I realized that I was overly ambitious on my PC's capabilities and decided on running just the Domain Controller, DHCP Server and one client PC.**
 
 ![DC with AD and DNS]({{site.baseurl}}/images/DC%20with%20AD%20DS%20and%20DNS%20installed.png)
