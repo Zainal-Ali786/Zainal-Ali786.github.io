@@ -10,5 +10,5 @@ We will be using Virtual box to run an instance of Kali Linux for the purposes o
 Start by downloading Oracle VirtualBox.
 
 ![VMware.png]({{site.baseurl}}/images/VMware.png)
-![Screenshot 2022-09-13 173856.png]({{site.baseurl}}/_posts/Screenshot 2022-09-13 173856.png)
+
 
