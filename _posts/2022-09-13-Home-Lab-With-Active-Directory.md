@@ -32,3 +32,6 @@ I Added the DHCP role to the server and created a new scope of addresses to use.
 
 ![DHCP Configuration.png]({{site.baseurl}}/images/DHCP Configuration.png)
 
+### Confirmed that the client was able to obtain an IP address from the DHCP Server and added it to the domain.
+
+
