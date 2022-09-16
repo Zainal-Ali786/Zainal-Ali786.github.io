@@ -35,3 +35,14 @@ I Added the DHCP role to the server and created a new scope of addresses to use.
 ### Confirmed that the client was able to obtain an IP address from the DHCP Server and added it to the domain.
 
 
+![Client Confirmation of IP address.png]({{site.baseurl}}/images/Client Confirmation of IP address.png)
+
+### In order for the client to connect to the Internet, we have to set up RAS/NAT on the Domain Controller.
+
+After configuring routing on the DC we are now able to access the Internet through the client.
+
+![Client Connection to Internet.png]({{site.baseurl}}/_posts/Client Connection to Internet.png)
+
+
+
+
