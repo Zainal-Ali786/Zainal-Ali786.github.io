@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 In this lab we will capture the 4-way handshake and crack the password using hashcat
 
@@ -10,5 +10,3 @@ We will be using Virtual box to run an instance of Kali Linux for the purposes o
 Start by downloading Oracle VirtualBox.
 
 ![VMware.png]({{site.baseurl}}/images/VMware.png)
-
-
