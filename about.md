@@ -9,7 +9,7 @@ I am currently transitioning into a career in cybersecurity, this blog will deta
 
 ### More Information
 
-I am currently looking for roles in cybersecurity, please contact me if you have any feedback!
+I am currently looking for roles in cybersecurity, please contact me if you have any feedback, or if you would like to connect!
 
 ### Contact me
 
