@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Setting Up a Virtual Home Lab running Active Directory (using Oracle VirtualBox)
 In this lab we will set up a virtual home lab consisting of a domain controller, DHCP server, File Server and 2 clients.
@@ -41,4 +41,4 @@ I Added the DHCP role to the server and created a new scope of addresses to use.
 
 After configuring routing on the DC we are now able to access the Internet through the client.
 
-![Client Connection to Internet.png]({{site.baseurl}}/_posts/Client Connection to Internet.png)
+![Client Connection to Internet.png]({{site.baseurl}}//Client Connection to Internet.png)
