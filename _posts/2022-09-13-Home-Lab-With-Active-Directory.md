@@ -41,4 +41,4 @@ I Added the DHCP role to the server and created a new scope of addresses to use.
 
 After configuring routing on the DC we are now able to access the Internet through the client.
 
-![Client Connection to Internet.png]({{site.baseurl}}//Client Connection to Internet.png)
+![Client Connection to Internet.png]({{site.baseurl}}/images/Client Connection to Internet.png)
