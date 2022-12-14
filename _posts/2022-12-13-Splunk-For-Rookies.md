@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Splunk For Rookies
 I took part in a webinar hosted by Splunk which provided hands-on exercises in a Splunk instance unique to me.
