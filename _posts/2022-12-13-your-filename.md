@@ -46,6 +46,10 @@ I decided on creating a graph that would report that would represent all POST re
 
 ![command.png]({{site.baseurl}}/_posts/command.png)
 
+To create visualization of this data I created a statistics that represented the top 5 different useragent of the events.
+
+
+
 
 
 
