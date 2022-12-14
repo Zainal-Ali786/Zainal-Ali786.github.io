@@ -46,7 +46,20 @@ I decided on creating a graph that would report that would represent all POST re
 
 ![command.png]({{site.baseurl}}/_posts/command.png)
 
-To create visualization of this data I created a statistics that represented the top 5 different useragent of the events.
+To create visualization of this data I created a statistics that represented the top 5 different useragent of the events and saved it to the dashboard.
+
+![POST requests from Linux.png]({{site.baseurl}}/_posts/POST requests from Linux.png)
+
+
+### Takeaways
+
+Overall the workshop was well structured and provided a macro-level overview of how Splunk can be used within an organization for valuable insights to different departments.
+
+Having your own instance of Splunk allowed you to run any searches that you want and play around with creating apps without fear of breaking anything; but was limited with the kind of data that was injested.
+
+I look forward to getting other logs injested into Splunk in order to create searches for other Indicators of Compromise.
+
+
 
 
 
